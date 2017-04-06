@@ -1,0 +1,26 @@
+.images {
+	max-height: 20em;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	display: inline-block;
+}
+
+.container {
+	/*margin-right: 5%;
+	margin-left: 5%;*/
+}
+.block-background {
+	background-color: antiquewhite;
+}
+
+.centered {
+	text-align: center;
+}
+
+.lead {
+	border-bottom: solid 1px lightgray;
+}
+
+p {
+	margin:10px 0;
+}
